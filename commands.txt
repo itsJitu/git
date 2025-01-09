@@ -1,0 +1,1 @@
+cd .. :- to use for go prviouse
