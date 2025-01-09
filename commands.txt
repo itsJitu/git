@@ -1,1 +1,5 @@
-cd .. :- to use for go prviouse
+cd .. :- to use for go prviouse.
+pwd :- it's show current working directory.
+ls :- it's show list.
+cd "Directory name" :- to get into directory.
+mk "directory" :- to create direcory.
